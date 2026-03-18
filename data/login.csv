@@ -1,0 +1,9 @@
+user_id,password,role
+admin1@sjsu.edu,Q01HX1NBTFRIa3RwdTgx,admin
+john1.jacobs@sjsu.edu,Q01HX1NBTFRxdm91UTE=,student
+mike.k@sjsu.edu,Q01HX1NBTFR0cHJsODE=,student
+rutu.s@sjsu.edu,Q01HX1NBTFR5fHt8WjE=,student
+p.saini@sjsu.edu,Q01HX1NBTFR3emhwdXAx,professor
+v.pendya@sjsu.edu,Q01HX1NBTFR9d2x1a8KAaHNoMQ==,professor
+moham.m@sjsu.edu,Q01HX1NBTFRUdm9odDE=,professor
+tom.c@sjsu.edu,Q01HX1NBTFRbdnRKMQ==,student

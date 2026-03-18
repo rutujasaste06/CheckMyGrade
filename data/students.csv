@@ -1,0 +1,9 @@
+email_address,first_name,last_name,course_id,grades,marks
+marc.j@sjsu.edu,Marc,J,DATA200,B,86
+john1.jacobs@sjsu.edu,John,Jacobs,DATA200,B,86
+rutu.s@sjsu.edu,Rutu,S,DATA226,B,89
+rutu.s@sjsu.edu,Rutu,S,DATA200,A,96
+mike.k@sjsu.edu,Mike,K,DATA220,B,85
+john1.jacobs@sjsu.edu,John,Jacobs,DATA220,A,95
+tom.c@sjsu.edu,Tom,C,DATA226,A,92
+tom.c@sjsu.edu,Tom,C,DATA220,B,89
